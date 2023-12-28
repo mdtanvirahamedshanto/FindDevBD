@@ -27,12 +27,38 @@ cd FindDevBD
 pnpm install
 ```
 
+or
+
+```bash
+cd FindDevBD
+npm install
+```
+
+or
+
+```bash
+cd FindDevBD
+yarn add
+```
+
 ## **Launch the Application**
 
 Ready to unveil your creation? Use this command to start the application:
 
 ```bash
 pnpm start
+```
+
+or
+
+```bash
+npm start
+```
+
+or
+
+```bash
+yarn start
 ```
 
 ## **Create a New Branch**
