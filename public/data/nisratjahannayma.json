@@ -1,0 +1,13 @@
+{
+  "name": "Nisrat Jahan Nayma",
+  "location": "Patuakhali, Barishal",
+  "bio": "A Web developer with 1 years of experience in NextJs and Javascript",
+  "avatar": "https://github.com/nisratjahannayma.png",
+  "portfolio": "https:mdtanvirahamedshanto.live",
+  "skills": ["NextJs", "React", "Typescript", "JavaScript", "TailwindCss", "Postgres", "HTML", "CSS", "NodeJS"],
+  "social": {
+    "GitHub": "https://github.com/mdtanvirahamedshanto",
+    "Twitter": "https://twitter.com/tashanto03",
+    "LinkedIn": "https://www.linkedin.com/in/mdtanvirahamedshanto"
+  }
+}
