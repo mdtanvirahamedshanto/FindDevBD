@@ -7,7 +7,7 @@ To embark on your devFind journey, you'll need a few tools. Make sure you have N
 Once you have these in place, let's get the devFind repository onto your local machine. Fire up your terminal and run this command:
 
 ```bash
-git clone https://github.com/shyamtawli/devFind.git
+git clone https://github.com/mdtanvirahamedshanto/FindDevBD.git
 ```
 
 ## **Install `pnpm`**
@@ -23,7 +23,7 @@ npm install -g pnpm
 Time to gather our supplies! Navigate to the project folder in your terminal and install the dependencies with these magical incantations:
 
 ```bash
-cd devFind
+cd FindDevBD
 pnpm install
 ```
 

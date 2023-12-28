@@ -1,6 +1,6 @@
 {
-  "name": "devfind",
-  "short_name": "devfind",
+  "name": "FindDevBD",
+  "short_name": "FindDevBD",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",

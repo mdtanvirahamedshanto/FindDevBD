@@ -1,4 +1,4 @@
-## Code of Conduct for devFind
+## Code of Conduct for FindDevBD
 
 devFind is an open source project that welcomes all individuals regardless of their background, experience level, or identity. We strive to foster an inclusive and respectful community where everyone feels safe and supported.
 
