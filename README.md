@@ -3,20 +3,20 @@
 </div>
 
 <p align="center">
-   <a href="https://github.com/shyamtawli/devFind/blob/master/LICENSE" target="blank">
-   <img src="https://img.shields.io/github/license/shyamtawli/devFind?style=for-the-badge&logo=appveyor" alt="License" />
+   <a href="https://github.com/mdtanvirahamedshanto/FindDevBD/blob/master/LICENSE" target="blank">
+   <img src="https://img.shields.io/github/license/mdtanvirahamedshanto/FindDevBD?style=for-the-badge&logo=appveyor" alt="License" />
    </a>
-   <a href="https://github.com/shyamtawli/devFind/fork" target="blank">
-   <img src="https://img.shields.io/github/forks/shyamtawli/devFind?style=for-the-badge&logo=appveyor" alt="Forks"/>
+   <a href="https://github.com/mdtanvirahamedshanto/FindDevBD/fork" target="blank">
+   <img src="https://img.shields.io/github/forks/mdtanvirahamedshanto/FindDevBD?style=for-the-badge&logo=appveyor" alt="Forks"/>
    </a>
-   <a href="https://github.com/shyamtawli/devFind/stargazers" target="blank">
-   <img src="https://img.shields.io/github/stars/shyamtawli/devFind?style=for-the-badge&logo=appveyor" alt="Star"/>
+   <a href="https://github.com/mdtanvirahamedshanto/FindDevBD/stargazers" target="blank">
+   <img src="https://img.shields.io/github/stars/mdtanvirahamedshanto/FindDevBD?style=for-the-badge&logo=appveyor" alt="Star"/>
    </a>
-   <a href="https://github.com/shyamtawli/devFind/issues" target="blank">
-   <img src="https://img.shields.io/github/issues/shyamtawli/devFind.svg?style=for-the-badge&logo=appveyor" alt="Click Vote Issue"/>
+   <a href="https://github.com/mdtanvirahamedshanto/FindDevBD/issues" target="blank">
+   <img src="https://img.shields.io/github/issues/mdtanvirahamedshanto/FindDevBD.svg?style=for-the-badge&logo=appveyor" alt="Click Vote Issue"/>
    </a>
-   <a href="https://github.com/shyamtawli/devFind/pulls" target="blank">
-   <img src="https://img.shields.io/github/issues-pr/shyamtawli/devFind.svg?style=for-the-badge&logo=appveyor" alt="Click Vote Open Pull Request"/>
+   <a href="https://github.com/mdtanvirahamedshanto/FindDevBD/pulls" target="blank">
+   <img src="https://img.shields.io/github/issues-pr/mdtanvirahamedshanto/FindDevBD.svg?style=for-the-badge&logo=appveyor" alt="Click Vote Open Pull Request"/>
    </a>
 </p>
 
@@ -153,8 +153,8 @@ Contributions make the open source community such an amazing place to learn, ins
 
 ## Contributors 🤝
 
-<a href="https://github.com/shyamtawli/devFind/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=shyamtawli/devFind" />
+<a href="https://github.com/mdtanvirahamedshanto/FindDevBD/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=mdtanvirahamedshanto/FindDevBD" />
 </a>
 
 <a id="license"></a>
