@@ -16,7 +16,7 @@
    <img src="https://img.shields.io/github/issues/mdtanvirahamedshanto/FindDevBD.svg?style=for-the-badge&logo=appveyor" alt="Click Vote Issue"/>
    </a>
    <a href="https://github.com/mdtanvirahamedshanto/FindDevBD/pulls" target="blank">
-   <img src="https://img.shields.io/github/pulls-pr/mdtanvirahamedshanto/FindDevBD.svg?style=for-the-badge&logo=appveyor" alt="Click Vote Open Pull Request"/>
+   <img src="https://img.shields.io/github/issues-pr/mdtanvirahamedshanto/FindDevBD.svg?style=for-the-badge&logo=appveyor" alt="Click Vote Open Pull Request"/>
    </a>
 </p>
 
