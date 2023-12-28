@@ -1,0 +1,13 @@
+{
+  "name": "Md Tanvir Ahamed Shanto",
+  "location": "Patuakhali, Barishal",
+  "bio": "A software developer with years of experience in NextJs and Javascript",
+  "avatar": "https://github.com/mdtanvirahamedshanto.png",
+  "portfolio": "https:mdtanvirahamedshanto.live",
+  "skills": ["NextJs", "React", "Typescript", "JavaScript", "TailwindCss", "Postgres", "HTML", "CSS", "NodeJS"],
+  "social": {
+    "GitHub": "https://github.com/mdtanvirahamedshanto",
+    "Twitter": "https://twitter.com/tashanto03",
+    "LinkedIn": "https://www.linkedin.com/in/mdtanvirahamedshanto"
+  }
+}
