@@ -1,5 +1,5 @@
 <div align="center">
-<h1>👩‍💻 devFind - Discover and Connect with Skilled Developers!</h1>
+<h1>👩‍💻 FindDevBD - Discover and Connect with Skilled Developers!</h1>
 </div>
 
 <p align="center">
@@ -35,17 +35,17 @@
 
 ## About 🚀
 
-- devFind - [Website](https://dev-find.vercel.app/)
-- **`devFind`** is an open source project that aims to create a platform for developers to showcase their skills and connect with potential collaborators, all in a user-friendly and searchable format.
-- With **`devFind`**, developers can create their profiles in JSON format, which are then displayed on the web for others to discover.
+- FindDevBD - [Website](https://find-dev-bd.vercel.app/)
+- **`FindDevBD`** is an open source project that aims to create a platform for developers to showcase their skills and connect with potential collaborators, all in a user-friendly and searchable format.
+- With **`FindDevBD`**, developers can create their profiles in JSON format, which are then displayed on the web for others to discover.
 
 <a id="features"></a>
 
 ## Features 💪
 
-- One of the key features of **`devFind`** is its powerful search functionality.
+- One of the key features of **`FindDevBD`** is its powerful search functionality.
 - Users can search for developers based on specific skills, locations or name, making it easy to find developers with expertise in a particular technology or programming language.
-- This makes **`devFind`** a valuable resource for project managers, recruiters, and anyone looking to connect with skilled developers for collaboration or employment opportunities.
+- This makes **`FindDevBD`** a valuable resource for project managers, recruiters, and anyone looking to connect with skilled developers for collaboration or employment opportunities.
 
 <a id="how-to-add-your-profile-data"></a>
 
@@ -98,7 +98,7 @@ Once pnpm is installed, you can navigate to the project directory and run the fo
 
 1. Fork the repository: To create a copy of the repository in your GitHub account, click on the "Fork" button in the top right corner of the project repository page.
 2. Clone the forked repository: To clone the repository to your local development environment, open the terminal or command prompt and run the following command:
-   **`git clone https://github.com/<your-github-username>/devFind.git`**
+   **`git clone https://github.com/<your-github-username>/FindDevBD.git`**
 
 3. Install dependencies: To install the necessary dependencies for the project, navigate to the project directory and run the following command:
    **`pnpm install`**
