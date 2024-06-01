@@ -3,6 +3,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React from 'react';
 import useTheme from '../../hooks/useTheme';
 import './Sidebar.css';
+import StarOnGitHub from './StarOnGitHub';
 
 function Sidebar() {
   const { theme, toogleTheme } = useTheme();
@@ -37,6 +38,9 @@ function Sidebar() {
         >
           <button className="link_button"> Add your profile </button>
         </a>
+      </div>
+      <div className="support">
+        <StarOnGitHub />
       </div>
     </div>
   );

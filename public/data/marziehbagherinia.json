@@ -1,0 +1,13 @@
+{
+  "name": "Marzieh Bagherinia",
+  "location": "Tehran, Iran",
+  "bio": "I'm a full-stack web developer with a passion for learning and sharing my knowledge with others. I love to work with JavaScript and its frameworks and libraries. I'm always looking for new challenges and opportunities to grow as a developer.",
+  "avatar": "https://github.com/marziehbagherinia.png",
+  "portfolio": "https://marziehbagherinia.github.io/Portfolio/",
+  "skills": ["HTML", "CSS", "JavaScript", "React", "Node.js", "Express", "MongoDB", "Git"],
+  "social": {
+    "GitHub": "https://github.com/marziehbagherinia",
+    "Twitter": "https://twitter.com/marziehbagherinia",
+    "LinkedIn": "https://www.linkedin.com/in/marziehbagherinia"
+  }
+}

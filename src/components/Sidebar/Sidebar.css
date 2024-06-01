@@ -103,4 +103,17 @@
     width: auto;
     height: auto;
   }
+  .support {
+    display: none;
+  }
+}
+
+/* need this div in buttom */
+
+.support {
+  position: absolute;
+  bottom: 0;
+  width: 50%;
+  padding: 10px 0;
+  text-align: center;
 }

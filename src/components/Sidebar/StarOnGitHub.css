@@ -1,0 +1,31 @@
+/* StarOnGitHub.css */
+.github-star-button {
+  display: flex;
+  align-items: center;
+  padding: 6px 12px;
+  border: 1px solid #d1d5da;
+  border-radius: 6px;
+  background-color: #f6f8fa;
+  color: #24292e;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 600;
+  transition: background-color 0.3s;
+  user-select: none;
+}
+
+.github-star-button:hover {
+  background-color: #e1e4e8;
+}
+
+.star-icon {
+  width: 16px;
+  height: 16px;
+  margin-right: 4px;
+  color: #586069;
+  transition: color 0.3s;
+}
+
+.star-text {
+  margin-right: 4px;
+}
