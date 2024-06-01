@@ -70,17 +70,17 @@ function Profile({ data }) {
           <div className="social-container">
             <ul className="social-icons">
               <li>
-                <a href={data.social.GitHub} target="_blank" rel="noreferrer">
+                <a href={data?.social?.GitHub} target="_blank" rel="noreferrer">
                   <i className="fa fa-github"></i>
                 </a>
               </li>
               <li>
-                <a href={data.social.Twitter} target="_blank" rel="noreferrer">
+                <a href={data?.social?.Twitter} target="_blank" rel="noreferrer">
                   <i className="fa fa-twitter"></i>
                 </a>
               </li>
               <li>
-                <a href={data.social.LinkedIn} target="_blank" rel="noreferrer">
+                <a href={data?.social?.LinkedIn} target="_blank" rel="noreferrer">
                   <i className="fa fa-linkedin"></i>
                 </a>
               </li>

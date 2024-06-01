@@ -1,0 +1,13 @@
+{
+  "name": "Moris",
+  "location": "USA",
+  "bio": "I am a full stack developer with a passion for creating beautiful and functional user experiences. I am a self-taught developer and I love to learn new things.",
+  "avatar": "https://github.com/Moris9.png",
+  "portfolio": "https://moroz-portfolio.netlify.app/",
+  "skills": ["HTML", "CSS", "JavaScript", "React", "Node.js", "Express", "MongoDB"],
+  "social": {
+    "GitHub": "https://github.com/Moris9",
+    "Twitter": "https://twitter.com/vmoroz3",
+    "LinkedIn": "https://www.linkedin.com/in/Moris9"
+  }
+}
